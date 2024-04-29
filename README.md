@@ -84,4 +84,4 @@ My .NET Http is provided as-is under the MIT license. For more information see [
 [framework-shield]: https://img.shields.io/badge/.NET-8.0-purple
 [framework-url]: https://github.com/sandre58/MyNetHttp/tree/main/src/MyNet.Http
 [version-shield]: https://img.shields.io/nuget/v/MyNet.Http
-[version-url]: https://github.com/sandre58/MyNetHttp/pkgs/nuget/MyNet.Http
+[version-url]: https://www.nuget.org/packages/MyNet.Http
